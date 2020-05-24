@@ -1,29 +1,13 @@
-# front
+## 第5周3-8项目作业
 
-## Project setup
-```
-npm install
-```
+### 必填校验
+![必填校验](./screenshot/1.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 邮箱格式
+![必填校验](./screenshot/2.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 密码长度
+![必填校验](./screenshot/3.png)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 验证码长度
+![必填校验](./screenshot/4.png)
